@@ -32,7 +32,6 @@ const images: { id: string, text: string }[] = [
   }
 ];
 
-// Add comment 1
 
 const isShow = ref<boolean>(false);
 const imgUrl = ref<string>('');
